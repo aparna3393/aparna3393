@@ -1,5 +1,5 @@
 - 👋 Hey this is Aparna! 
-- 👀 Enthuastic about Data Science and Data Visualization
+- 👀 Enthusiastic about Data Science and Data Visualization
 - 🌱 Currently trying to catch Python :D
 - 💞️ Reachout for Collaboration on Python/SQL/Tableau
 
